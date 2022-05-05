@@ -1,6 +1,10 @@
 import React, { useEffect, useState } from "react";
 import { getRequests } from "./Api";
 
+function compareHeight(a, b) {
+  return a.height - b.height;
+}
+
 const Requests = () => {
   const [rowReference, setRowReference] = useState(undefined);
   const [players, setPlayers] = useState(undefined);
@@ -12,11 +16,13 @@ const Requests = () => {
         (row) => row.player_count === playerCount
       );
       setRowReference(currentRowReference[0]);
-      setPlayers(data[0].players);
+
+      const sortedPlayers = data[0].players.sort(compareHeight);
+      setPlayers(sortedPlayers);
     });
   }, []);
 
-  console.log(rowReference);
+  console.log(players);
 
   return <div>Your code will go here</div>;
 };
