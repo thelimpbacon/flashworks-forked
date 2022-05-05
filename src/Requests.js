@@ -1,22 +1,12 @@
 import React, { useEffect, useState } from "react";
 import { getRequests } from "./Api";
+import Rows from "./components/Rows";
 
 const compareHeight = (a, b) => {
   return a.height - b.height;
 };
 
 const slicer = (array, start, end) => array.slice(start, end);
-
-const heightSorter = (array) => {
-  if (!array) return;
-  array.sort(function (a, b) {
-    return a - b;
-  });
-  let right = array.slice(array.length / 2, array.length).reverse();
-  let left = array.slice(0, array.length / 2);
-  array = left.concat(right);
-  return array;
-};
 
 const Requests = () => {
   const [rowReference, setRowReference] = useState(undefined);
@@ -70,10 +60,12 @@ const Requests = () => {
   }, [players]);
 
   return (
-    <div>
-      <div>{JSON.stringify(heightSorter(rows.row1))}</div>
-      <div></div>
-      <div></div>
+    <div style={{ display: "flex", gap: "1em", flexDirection: "column" }}>
+      <Rows row="Row 1" players={rows.row1} />
+      <Rows row="Row 2" players={rows.row2} />
+      <Rows row="Row 3" players={rows.row3} />
+      <Rows row="Row 4" players={rows.row4} />
+      <Rows row="Row 5" players={rows.row5} />
     </div>
   );
 };
