@@ -2,10 +2,6 @@ import React, { useEffect, useState } from "react";
 import { getRequests } from "./Api";
 import Rows from "./components/Rows";
 
-const compareHeight = (a, b) => {
-  return a.height - b.height;
-};
-
 const slicer = (array, start, end) => array.slice(start, end);
 
 const Requests = () => {
@@ -27,7 +23,9 @@ const Requests = () => {
       );
       setRowReference(currentRowReference[0]);
 
-      const sortedPlayers = data[0].players.sort(compareHeight);
+      const sortedPlayers = data[0].players.sort((a, b) => {
+        return a.height - b.height;
+      });
       setPlayers(sortedPlayers);
     });
   }, []);
