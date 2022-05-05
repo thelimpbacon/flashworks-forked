@@ -18,31 +18,51 @@ const Rows = ({ row, players }) => {
     <div
       style={{
         display: "flex",
-        border: "1px solid gray",
+        border: "5px solid gray",
         flexDirection: "row",
         gap: "1em",
         padding: "1em",
+        justifyContent: "start",
       }}
     >
-      <div>{row}</div>
+      <h3
+        style={{
+          minWidth: "150px",
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+        }}
+      >
+        {row}
+      </h3>
 
       {heightSorter(players).map((player) => {
         return (
           <div
             key={player.id}
             style={{
-              border: "1px solid green",
-              minWidth: "200px",
+              border: "2px solid green",
+              width: "170px",
               display: "flex",
               flexDirection: "column",
             }}
           >
-            <h4 style={{ display: "flex", gap: "1em" }}>
-              <span>
-                {player.first_name} {player.last_name}
-              </span>
-              <span>({player.height})</span>
-            </h4>
+            <div
+              style={{
+                display: "flex",
+                flexDirection: "column",
+                justifyContent: "center",
+                alignItems: "center",
+              }}
+            >
+              <h5 style={{ display: "flex", gap: "1em" }}>
+                <span>
+                  {player.first_name} {player.last_name}
+                </span>
+                <span>({player.height})</span>
+              </h5>
+            </div>
+
             <img src={player.face_url} style={{ objectFit: "scale-down" }} />
           </div>
         );
