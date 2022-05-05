@@ -1,0 +1,508 @@
+[
+  {
+    "id": 1,
+    "team_name": "U12 Kangaroos",
+    "players": [
+      {
+        "id": 1,
+        "first_name": "Talya",
+        "last_name": "Deinhard",
+        "gender": "Female",
+        "height": 140,
+        "face_url": "https://robohash.org/delectusquisdolor.png?size=250x250&set=set1",
+        "created_at": "2020-06-12 07:22:06",
+        "updated_at": "2020-11-19 01:59:23"
+      },
+      {
+        "id": 2,
+        "first_name": "Clerissa",
+        "last_name": "Colliber",
+        "gender": "Female",
+        "height": 152,
+        "face_url": "https://robohash.org/minimaconsequunturdolorem.png?size=250x250&set=set1",
+        "created_at": "2020-11-11 06:59:19",
+        "updated_at": "2021-01-23 14:30:53"
+      },
+      {
+        "id": 3,
+        "first_name": "Erv",
+        "last_name": "Kabisch",
+        "gender": "Male",
+        "height": 176,
+        "face_url": "https://robohash.org/exverosoluta.png?size=250x250&set=set1",
+        "created_at": "2020-11-28 18:33:55",
+        "updated_at": "2021-01-17 09:00:55"
+      },
+      {
+        "id": 4,
+        "first_name": "Domenic",
+        "last_name": "Kloser",
+        "gender": "Female",
+        "height": 152,
+        "face_url": "https://robohash.org/natusfugiteius.png?size=250x250&set=set1",
+        "created_at": "2020-11-26 12:01:11",
+        "updated_at": "2020-07-02 20:05:53"
+      },
+      {
+        "id": 5,
+        "first_name": "Opaline",
+        "last_name": "Whitby",
+        "gender": "Male",
+        "height": 183,
+        "face_url": "https://robohash.org/dignissimosinventoreest.png?size=250x250&set=set1",
+        "created_at": "2020-07-30 02:48:42",
+        "updated_at": "2020-09-16 05:49:13"
+      },
+      {
+        "id": 6,
+        "first_name": "Margi",
+        "last_name": "Duer",
+        "gender": "Male",
+        "height": 156,
+        "face_url": "https://robohash.org/eligendinisiillum.png?size=250x250&set=set1",
+        "created_at": "2020-05-04 06:35:32",
+        "updated_at": "2020-08-26 03:07:47"
+      },
+      {
+        "id": 7,
+        "first_name": "Loreen",
+        "last_name": "Bernakiewicz",
+        "gender": "Male",
+        "height": 176,
+        "face_url": "https://robohash.org/consequaturestomnis.png?size=250x250&set=set1",
+        "created_at": "2020-09-24 04:59:26",
+        "updated_at": "2020-11-13 05:29:16"
+      },
+      {
+        "id": 8,
+        "first_name": "Gabriellia",
+        "last_name": "Trice",
+        "gender": "Male",
+        "height": 182,
+        "face_url": "https://robohash.org/quastemporaminus.png?size=250x250&set=set1",
+        "created_at": "2020-05-07 00:12:28",
+        "updated_at": "2020-05-19 07:27:06"
+      },
+      {
+        "id": 9,
+        "first_name": "Blakelee",
+        "last_name": "Dauney",
+        "gender": "Female",
+        "height": 156,
+        "face_url": "https://robohash.org/quidemreiciendisenim.png?size=250x250&set=set1",
+        "created_at": "2021-02-02 05:44:51",
+        "updated_at": "2021-01-23 03:10:32"
+      },
+      {
+        "id": 10,
+        "first_name": "Tessi",
+        "last_name": "Arstall",
+        "gender": "Male",
+        "height": 152,
+        "face_url": "https://robohash.org/quiaaliquamaccusantium.png?size=250x250&set=set1",
+        "created_at": "2020-11-29 09:20:07",
+        "updated_at": "2021-01-29 04:42:20"
+      },
+      {
+        "id": 11,
+        "first_name": "Rriocard",
+        "last_name": "Gavey",
+        "gender": "Male",
+        "height": 178,
+        "face_url": "https://robohash.org/ameterrorest.png?size=250x250&set=set1",
+        "created_at": "2020-08-24 10:24:23",
+        "updated_at": "2021-03-27 20:08:27"
+      },
+      {
+        "id": 12,
+        "first_name": "Ode",
+        "last_name": "Mellody",
+        "gender": "Female",
+        "height": 148,
+        "face_url": "https://robohash.org/eumquiquisquam.png?size=250x250&set=set1",
+        "created_at": "2021-03-13 15:36:37",
+        "updated_at": "2021-03-16 16:55:30"
+      },
+      {
+        "id": 13,
+        "first_name": "Dmitri",
+        "last_name": "Gricewood",
+        "gender": "Male",
+        "height": 143,
+        "face_url": "https://robohash.org/etrepellatrerum.png?size=250x250&set=set1",
+        "created_at": "2020-07-06 19:41:11",
+        "updated_at": "2020-07-13 22:10:45"
+      },
+      {
+        "id": 14,
+        "first_name": "Bellanca",
+        "last_name": "Shenton",
+        "gender": "Female",
+        "height": 171,
+        "face_url": "https://robohash.org/voluptasvoluptatemmaxime.png?size=250x250&set=set1",
+        "created_at": "2020-12-12 18:03:04",
+        "updated_at": "2020-05-06 20:29:30"
+      },
+      {
+        "id": 15,
+        "first_name": "Briano",
+        "last_name": "Lunbech",
+        "gender": "Female",
+        "height": 189,
+        "face_url": "https://robohash.org/voluptasvoluptatemquas.png?size=250x250&set=set1",
+        "created_at": "2020-04-26 16:07:08",
+        "updated_at": "2020-06-06 05:31:27"
+      },
+      {
+        "id": 16,
+        "first_name": "Hercule",
+        "last_name": "Warrillow",
+        "gender": "Male",
+        "height": 187,
+        "face_url": "https://robohash.org/omnisetquia.png?size=250x250&set=set1",
+        "created_at": "2021-01-29 16:11:57",
+        "updated_at": "2020-05-16 00:11:32"
+      },
+      {
+        "id": 17,
+        "first_name": "Holly",
+        "last_name": "Snodin",
+        "gender": "Male",
+        "height": 154,
+        "face_url": "https://robohash.org/suscipitdebitisesse.png?size=250x250&set=set1",
+        "created_at": "2021-01-15 05:13:05",
+        "updated_at": "2020-08-24 00:36:25"
+      },
+      {
+        "id": 18,
+        "first_name": "Hollyanne",
+        "last_name": "Mettericke",
+        "gender": "Male",
+        "height": 144,
+        "face_url": "https://robohash.org/sunterrorpossimus.png?size=250x250&set=set1",
+        "created_at": "2020-12-03 06:06:04",
+        "updated_at": "2020-07-19 07:04:29"
+      },
+      {
+        "id": 19,
+        "first_name": "Beatriz",
+        "last_name": "Alexandersen",
+        "gender": "Female",
+        "height": 142,
+        "face_url": "https://robohash.org/dolorumvitaedolores.png?size=250x250&set=set1",
+        "created_at": "2021-01-09 02:54:35",
+        "updated_at": "2020-06-22 08:50:30"
+      },
+      {
+        "id": 20,
+        "first_name": "Agosto",
+        "last_name": "MacGebenay",
+        "gender": "Male",
+        "height": 185,
+        "face_url": "https://robohash.org/etetnon.png?size=250x250&set=set1",
+        "created_at": "2020-09-22 10:05:34",
+        "updated_at": "2020-08-13 00:27:15"
+      },
+      {
+        "id": 21,
+        "first_name": "Carleen",
+        "last_name": "Jacquest",
+        "gender": "Male",
+        "height": 154,
+        "face_url": "https://robohash.org/autaccusantiumesse.png?size=250x250&set=set1",
+        "created_at": "2020-11-05 22:15:53",
+        "updated_at": "2021-01-16 14:18:49"
+      },
+      {
+        "id": 22,
+        "first_name": "Olivette",
+        "last_name": "Hacksby",
+        "gender": "Female",
+        "height": 140,
+        "face_url": "https://robohash.org/ullammaioresquod.png?size=250x250&set=set1",
+        "created_at": "2020-05-05 15:41:53",
+        "updated_at": "2021-01-20 00:38:18"
+      },
+      {
+        "id": 23,
+        "first_name": "Jaymie",
+        "last_name": "Langstone",
+        "gender": "Female",
+        "height": 169,
+        "face_url": "https://robohash.org/velsuntquia.png?size=250x250&set=set1",
+        "created_at": "2020-07-17 11:57:28",
+        "updated_at": "2020-08-07 12:11:36"
+      },
+      {
+        "id": 24,
+        "first_name": "Eldon",
+        "last_name": "Pettipher",
+        "gender": "Male",
+        "height": 159,
+        "face_url": "https://robohash.org/voluptatemsitrepellendus.png?size=250x250&set=set1",
+        "created_at": "2020-11-10 00:23:00",
+        "updated_at": "2020-12-17 09:20:27"
+      },
+      {
+        "id": 25,
+        "first_name": "Dulci",
+        "last_name": "Lorain",
+        "gender": "Female",
+        "height": 160,
+        "face_url": "https://robohash.org/debitisullamquis.png?size=250x250&set=set1",
+        "created_at": "2020-07-08 10:05:52",
+        "updated_at": "2021-01-02 02:50:47"
+      },
+      {
+        "id": 26,
+        "first_name": "Winne",
+        "last_name": "Blaik",
+        "gender": "Male",
+        "height": 170,
+        "face_url": "https://robohash.org/rerumetlabore.png?size=250x250&set=set1",
+        "created_at": "2020-07-13 17:56:01",
+        "updated_at": "2020-10-07 21:54:10"
+      },
+      {
+        "id": 27,
+        "first_name": "Jamal",
+        "last_name": "Von Gladbach",
+        "gender": "Male",
+        "height": 143,
+        "face_url": "https://robohash.org/quoreiciendisaperiam.png?size=250x250&set=set1",
+        "created_at": "2020-11-25 22:06:34",
+        "updated_at": "2021-01-02 16:32:20"
+      },
+      {
+        "id": 28,
+        "first_name": "Mikey",
+        "last_name": "Ragbourne",
+        "gender": "Female",
+        "height": 159,
+        "face_url": "https://robohash.org/nesciuntnihilalias.png?size=250x250&set=set1",
+        "created_at": "2021-02-15 08:37:16",
+        "updated_at": "2020-09-17 00:38:13"
+      },
+      {
+        "id": 29,
+        "first_name": "Gilemette",
+        "last_name": "Wheal",
+        "gender": "Male",
+        "height": 142,
+        "face_url": "https://robohash.org/dignissimoscupiditatein.png?size=250x250&set=set1",
+        "created_at": "2020-06-23 10:18:07",
+        "updated_at": "2020-10-29 08:10:49"
+      },
+      {
+        "id": 30,
+        "first_name": "Clemmie",
+        "last_name": "Bogies",
+        "gender": "Female",
+        "height": 164,
+        "face_url": "https://robohash.org/ametdoloribusest.png?size=250x250&set=set1",
+        "created_at": "2020-05-23 08:51:55",
+        "updated_at": "2020-11-07 11:25:58"
+      },
+      {
+        "id": 31,
+        "first_name": "Lazarus",
+        "last_name": "Scourfield",
+        "gender": "Female",
+        "height": 170,
+        "face_url": "https://robohash.org/voluptatemautaspernatur.png?size=250x250&set=set1",
+        "created_at": "2020-05-26 19:34:18",
+        "updated_at": "2020-05-25 19:03:07"
+      },
+      {
+        "id": 32,
+        "first_name": "Alvin",
+        "last_name": "Hemms",
+        "gender": "Male",
+        "height": 148,
+        "face_url": "https://robohash.org/veniamanimifugit.png?size=250x250&set=set1",
+        "created_at": "2020-11-07 22:34:39",
+        "updated_at": "2021-02-15 11:38:24"
+      },
+      {
+        "id": 33,
+        "first_name": "Trenna",
+        "last_name": "Penke",
+        "gender": "Female",
+        "height": 158,
+        "face_url": "https://robohash.org/eiusminusearum.png?size=250x250&set=set1",
+        "created_at": "2021-03-12 16:51:36",
+        "updated_at": "2020-04-19 13:54:31"
+      },
+      {
+        "id": 34,
+        "first_name": "Deny",
+        "last_name": "Guitton",
+        "gender": "Female",
+        "height": 190,
+        "face_url": "https://robohash.org/culpaminimaipsum.png?size=250x250&set=set1",
+        "created_at": "2021-02-26 15:42:04",
+        "updated_at": "2020-11-05 04:42:28"
+      },
+      {
+        "id": 35,
+        "first_name": "Carey",
+        "last_name": "Portt",
+        "gender": "Female",
+        "height": 140,
+        "face_url": "https://robohash.org/doloremquenobisratione.png?size=250x250&set=set1",
+        "created_at": "2020-08-18 20:27:38",
+        "updated_at": "2021-03-02 15:07:04"
+      },
+      {
+        "id": 36,
+        "first_name": "Adella",
+        "last_name": "Linzey",
+        "gender": "Female",
+        "height": 177,
+        "face_url": "https://robohash.org/aspernaturvoluptatemdebitis.png?size=250x250&set=set1",
+        "created_at": "2020-12-07 08:18:16",
+        "updated_at": "2020-06-17 23:07:05"
+      },
+      {
+        "id": 37,
+        "first_name": "Conn",
+        "last_name": "Buttel",
+        "gender": "Female",
+        "height": 175,
+        "face_url": "https://robohash.org/ipsumistequod.png?size=250x250&set=set1",
+        "created_at": "2020-05-26 11:55:38",
+        "updated_at": "2020-05-25 21:26:30"
+      },
+      {
+        "id": 38,
+        "first_name": "Butch",
+        "last_name": "Mullender",
+        "gender": "Female",
+        "height": 166,
+        "face_url": "https://robohash.org/natussolutaoccaecati.png?size=250x250&set=set1",
+        "created_at": "2021-02-06 20:25:49",
+        "updated_at": "2020-06-24 21:37:54"
+      },
+      {
+        "id": 39,
+        "first_name": "Justino",
+        "last_name": "Scannell",
+        "gender": "Female",
+        "height": 168,
+        "face_url": "https://robohash.org/quisrerumesse.png?size=250x250&set=set1",
+        "created_at": "2020-10-16 13:11:30",
+        "updated_at": "2020-08-12 14:27:39"
+      },
+      {
+        "id": 40,
+        "first_name": "Jorey",
+        "last_name": "Maliffe",
+        "gender": "Male",
+        "height": 154,
+        "face_url": "https://robohash.org/molestiaeabrerum.png?size=250x250&set=set1",
+        "created_at": "2020-09-29 18:39:06",
+        "updated_at": "2020-07-24 20:45:49"
+      },
+      {
+        "id": 41,
+        "first_name": "Leonanie",
+        "last_name": "Callar",
+        "gender": "Male",
+        "height": 153,
+        "face_url": "https://robohash.org/necessitatibusquasiquae.png?size=250x250&set=set1",
+        "created_at": "2020-12-08 14:04:18",
+        "updated_at": "2020-05-01 09:16:45"
+      },
+      {
+        "id": 42,
+        "first_name": "Lewiss",
+        "last_name": "Meak",
+        "gender": "Female",
+        "height": 144,
+        "face_url": "https://robohash.org/veritatisprovidentitaque.png?size=250x250&set=set1",
+        "created_at": "2020-08-28 08:25:20",
+        "updated_at": "2020-07-17 03:35:44"
+      },
+      {
+        "id": 43,
+        "first_name": "Rose",
+        "last_name": "Amyes",
+        "gender": "Female",
+        "height": 156,
+        "face_url": "https://robohash.org/quiaexeligendi.png?size=250x250&set=set1",
+        "created_at": "2021-01-06 17:14:05",
+        "updated_at": "2020-04-23 13:18:19"
+      },
+      {
+        "id": 44,
+        "first_name": "Jessy",
+        "last_name": "Addington",
+        "gender": "Female",
+        "height": 154,
+        "face_url": "https://robohash.org/veroesseid.png?size=250x250&set=set1",
+        "created_at": "2021-01-18 18:46:28",
+        "updated_at": "2020-11-05 13:35:42"
+      },
+      {
+        "id": 45,
+        "first_name": "Granny",
+        "last_name": "Dallimore",
+        "gender": "Female",
+        "height": 190,
+        "face_url": "https://robohash.org/temporavoluptatesut.png?size=250x250&set=set1",
+        "created_at": "2021-01-05 18:44:34",
+        "updated_at": "2020-12-09 09:48:06"
+      },
+      {
+        "id": 46,
+        "first_name": "Far",
+        "last_name": "Alvin",
+        "gender": "Male",
+        "height": 154,
+        "face_url": "https://robohash.org/nisiquiaoptio.png?size=250x250&set=set1",
+        "created_at": "2020-05-13 08:52:30",
+        "updated_at": "2020-08-15 22:05:52"
+      },
+      {
+        "id": 47,
+        "first_name": "Cyrill",
+        "last_name": "Clurow",
+        "gender": "Female",
+        "height": 179,
+        "face_url": "https://robohash.org/saepeatpraesentium.png?size=250x250&set=set1",
+        "created_at": "2020-08-04 17:38:03",
+        "updated_at": "2020-04-17 20:44:55"
+      },
+      {
+        "id": 48,
+        "first_name": "Enrico",
+        "last_name": "Wulfinger",
+        "gender": "Male",
+        "height": 143,
+        "face_url": "https://robohash.org/numquamullamharum.png?size=250x250&set=set1",
+        "created_at": "2020-05-12 20:27:44",
+        "updated_at": "2020-10-13 17:05:22"
+      },
+      {
+        "id": 49,
+        "first_name": "Brynna",
+        "last_name": "Tarzey",
+        "gender": "Male",
+        "height": 164,
+        "face_url": "https://robohash.org/solutadoloremqueut.png?size=250x250&set=set1",
+        "created_at": "2020-08-13 10:48:10",
+        "updated_at": "2020-06-01 19:36:03"
+      },
+      {
+        "id": 50,
+        "first_name": "Lizzie",
+        "last_name": "Bilbery",
+        "gender": "Female",
+        "height": 148,
+        "face_url": "https://robohash.org/ealaborumrerum.png?size=250x250&set=set1",
+        "created_at": "2020-11-28 04:20:51",
+        "updated_at": "2021-02-26 04:46:12"
+      }
+    ]
+  }
+]
