@@ -2,9 +2,11 @@ import React from "react";
 
 const heightSorter = (array) => {
   if (!array) return;
+
   array.sort(function (a, b) {
-    return a - b;
+    return a.height - b.height;
   });
+
   let right = array.slice(array.length / 2, array.length).reverse();
   let left = array.slice(0, array.length / 2);
   array = left.concat(right);
